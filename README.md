@@ -37,7 +37,7 @@
 </div>
 
 ## 🌞 Introduction
-we propose ArcAligner (Adaptive recursive context Aligner), a lightweight module integrated into the language model layers to
+> we propose ArcAligner (Adaptive recursive context Aligner), a lightweight module integrated into the language model layers to
 help the model better utilize highly compressed context representations for downstream generation. It uses an adaptive “gating” system
 that only adds extra processing power when the information is complex, keeping the system fast.
 
